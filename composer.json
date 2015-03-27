@@ -1,16 +1,4 @@
 {
-    "repositories": [
-        { 
-            "type": "vcs",
-            "url": "https://github.com/iranw/irpackagist" 
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {
-        "iranw/irpackagist": "dev"
-    }
-}
-{
     "name": "iran/test",
     "type": "library",
     "description": "test my library. order by phpno.com",
@@ -27,6 +15,6 @@
         "phpunit/phpunit":         ">=3.7"
     },
     "autoload": {
-        "psr-0": { "Doctrine\\Common\\Cache\\": "lib/" }
+        "psr-0": { "Iran\\Func\\": "lib/" }
     }
 }

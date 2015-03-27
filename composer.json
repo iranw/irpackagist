@@ -1,0 +1,12 @@
+{
+    "repositories": [
+        { 
+            "type": "vcs",
+            "url": "https://github.com/iranw/irpackagist" 
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "iranw/irpackagist": "dev"
+    }
+}

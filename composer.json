@@ -1,7 +1,7 @@
 {
     "name": "iran/test",
     "type": "library",
-    "description": "test my library. order by phpno.com",
+    "description": "my first test",
     "keywords": ["iran", "iranw"],
     "homepage": "http://www.phpno.com",
     "license": "MIT",
